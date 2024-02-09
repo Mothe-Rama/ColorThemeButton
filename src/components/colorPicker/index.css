@@ -13,6 +13,7 @@
     background: rgba(255, 255, 255, 0.6);
     left: 35%;
     font-style: italic;
+    border-style: 2px solid green;
 }
 
 .color-box {
