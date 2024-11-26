@@ -12,8 +12,9 @@ ReactDOM.render(
     "red",
     "green",
     "yellow",
-    "pink",
     "indigo",
+    "violet",
+    "blue"
   ]}
   initialSelectedColor= {"black"}
   />,root
