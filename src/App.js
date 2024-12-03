@@ -7,7 +7,7 @@ const title = "color Picker"
 class App extends Component {
   render() {
     return (
-      <div style={{border: 2 }}>
+      <div style={{border: '120px solid cyan' }}>
         <h8k-navbar header= {title}></h8k-navbar>
            {this.props.initialSelectedColor}
            <ColorPicker
